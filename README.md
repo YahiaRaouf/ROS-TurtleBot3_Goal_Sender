@@ -60,9 +60,9 @@ as you can see the Robot starts the plan a path for itself to reach to the goal 
 
 ```bash
 Header
-    unint32 seq
+    uint32 seq
     time stamp
-    string frame_id
+    String frame_id
 Pose
     position
         float64 x
