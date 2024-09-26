@@ -56,7 +56,7 @@ for these values entered
 
 ![26 09 2024_13 50 55_REC](https://github.com/user-attachments/assets/a7bbb0be-f040-4def-b454-18af6fef27f0)
 
-as you can see the Robot starts the plan a path for itself to reach to the goal sent by the sned_goal_node using a TimeStamped Pose message
+as you can see the Robot starts to plan a path for itself to reach to the goal sent by the send_goal_node using a TimeStamped Pose message
 
 ```bash
 Header
