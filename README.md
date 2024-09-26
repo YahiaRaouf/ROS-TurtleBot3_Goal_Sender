@@ -38,6 +38,7 @@ This will start the TurtleBot3 navigation system, and TurtleBot3 will use its Li
 you'll need to set the currrent location of the robot in RVIZ according to its location and orientation in gazebo using the 2D Pose estimate tool.
 
 3. running send_goal_node
+   
 After launching the navigation stack, you can now use the node from this package to send goals to TurtleBot3 via the terminal. Instead of using the 2D Nav Goal tool in RViz, enter the position (x, y) and orientation (z)
 
 ```bash
